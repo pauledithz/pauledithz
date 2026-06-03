@@ -1,5 +1,11 @@
 # 💫 About Me:
-je suis dev en front-end et je voudrais apprendre python car mon but et d'alimenter et de créer et intelligence artificiel, et aussi Dans la big tech.I ❤️Coding
+Mon parcours dans le développement a commencé par le front-end, où j'ai appris à donner vie aux interfaces avec HTML, CSS et JavaScript. Cette passion pour la création m'a naturellement conduit vers un horizon plus vaste : l'intelligence artificielle.
+
+Aujourd'hui, je suis en pleine transition vers le métier d'AI Engineer. J'apprends activement Python et j'explore les fondements du machine learning pour bâtir des systèmes capables d'apprendre et de raisonner.
+
+Quand je ne perfectionne pas mes compétences front-end, je m'entraîne sur des projets d'IA, je lis de la documentation technique et je construis pas à pas le profil du Software Engineer spécialisé en IA que je veux devenir.
+
+
 
 
 ## 🌐 Socials:
